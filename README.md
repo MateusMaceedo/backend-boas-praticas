@@ -4,7 +4,7 @@
 <h1 align="center">Desafios Backend Brasil </h1>
 <p align="center">Selecionamos alguns desafios de programação para você estudar, treinar e aprender</p>
 
->Projeto Original<https://github.com/backend-br>
+>Projeto Original: <https://github.com/backend-br>
 
 ## Qual o objetivo ?
 
