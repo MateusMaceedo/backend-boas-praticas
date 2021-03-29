@@ -25,6 +25,7 @@ Existe uma grande comunidade no mundo da programação interessada em aprender b
 <img src="https://img.shields.io/badge/ruby%20-FF0000.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
 <img src="https://img.shields.io/badge/go%20-87CEFA.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-314690.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-314690.svg?&style=for-the-badge&logo=c#&logoColor=white"/>
 </p>
 
 - Abra [uma nova **issue**](https://github.com/backend-br/desafios/issues/new) e, no título  desta _issue_, coloque o mesmo título do desafio.
