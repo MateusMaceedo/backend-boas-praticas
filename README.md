@@ -12,7 +12,7 @@ Existe uma grande comunidade no mundo da programação interessada em aprender b
 
 <img alt="Programação Back-End: Definição e Exemplos | Eu Faço Programas" class="n3VNCb" src="https://eufacoprogramas.com/wp-content/uploads/2018/10/front-end-definicao.jpg" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 212.789px; height: 166px; margin: 0px;">
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/java%20-FF0000.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/angular%20-FF0000.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
