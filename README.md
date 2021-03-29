@@ -24,12 +24,12 @@ Existe uma grande comunidade no mundo da programação interessada em aprender b
 <img src="https://img.shields.io/badge/elixir%20-314690.svg?&style=for-the-badge&logo=elixir&logoColor=violet"/>
 <img src="https://img.shields.io/badge/ruby%20-FF0000.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
 <img src="https://img.shields.io/badge/go%20-87CEFA.svg?&style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/python%20-314690.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-314690.svg?&style=for-the-badge&logo=python&logoColor=blue&yellow"/>
 <img src="https://img.shields.io/badge/.NET%20-314690.svg?&style=for-the-badge&logo=.NET&logoColor=white"/>
 <img src="https://img.shields.io/badge/vue.js%20-%2343853D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/php%20-314690.svg?&style=for-the-badge&logo=php&logoColor=blue"/>
-<img src="https://img.shields.io/badge/perl%20-314690.svg?&style=for-the-badge&logo=perl&logoColor=white"/>
-<img src="https://img.shields.io/badge/scala%20-314690.svg?&style=for-the-badge&logo=scala&logoColor=white"/>
+<img src="https://img.shields.io/badge/perl%20-314690.svg?&style=for-the-badge&logo=perl&logoColor=informational"/>
+<img src="https://img.shields.io/badge/scala%20-314690.svg?&style=for-the-badge&logo=scala&logoColor=red"/>
 </p>
 
 - Abra [uma nova **issue**](https://github.com/backend-br/desafios/issues/new) e, no título  desta _issue_, coloque o mesmo título do desafio.
