@@ -31,7 +31,8 @@ Existe uma grande comunidade no mundo da programação interessada em aprender b
 <img src="https://img.shields.io/badge/html%20-314690.svg?&style=for-the-badge&logo=html&logoColor=white"/>
 <img src="https://img.shields.io/badge/css%20-314690.svg?&style=for-the-badge&logo=css&logoColor=white"/>
 <img src="https://img.shields.io/badge/perl%20-314690.svg?&style=for-the-badge&logo=perl&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++%20-314690.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++%20-314690.svg?&style=for-the-badge&logo=c++&logoColor=white"/>
+<img src="https://img.shields.io/badge/scala%20-314690.svg?&style=for-the-badge&logo=scala&logoColor=white"/>
 </p>
 
 - Abra [uma nova **issue**](https://github.com/backend-br/desafios/issues/new) e, no título  desta _issue_, coloque o mesmo título do desafio.
