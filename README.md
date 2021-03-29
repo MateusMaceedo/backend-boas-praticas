@@ -12,8 +12,10 @@ Existe uma grande comunidade no mundo da programação interessada em aprender b
 
 <img alt="Programação Back-End: Definição e Exemplos | Eu Faço Programas" class="n3VNCb" src="https://eufacoprogramas.com/wp-content/uploads/2018/10/front-end-definicao.jpg" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 212.789px; height: 166px; margin: 0px;">
 
+<p>
 <img src="https://img.shields.io/badge/java%20-FF0000.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/java%20-FF0000.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin%20-%23007ACC.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+</p>
 
 - Abra [uma nova **issue**](https://github.com/backend-br/desafios/issues/new) e, no título  desta _issue_, coloque o mesmo título do desafio.
 - Preencha corretamente os dados pedidos no _template_ padrão - o template aparece quando você cria uma nova issue :)
