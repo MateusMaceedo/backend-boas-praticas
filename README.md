@@ -28,7 +28,7 @@ Existe uma grande comunidade no mundo da programação interessada em aprender b
 <img src="https://img.shields.io/badge/.NET%20-314690.svg?&style=for-the-badge&logo=.NET&logoColor=white"/>
 <img src="https://img.shields.io/badge/vue.js%20-314690.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/php%20-314690.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML%20-314690.svg?&style=for-the-badge&logo=HTML&logoColor=white"/>
+<img src="https://img.shields.io/badge/html%20-314690.svg?&style=for-the-badge&logo=html&logoColor=white"/>
 </p>
 
 - Abra [uma nova **issue**](https://github.com/backend-br/desafios/issues/new) e, no título  desta _issue_, coloque o mesmo título do desafio.
