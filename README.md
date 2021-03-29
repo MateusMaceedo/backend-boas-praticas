@@ -7,7 +7,7 @@
 >Projeto Original: <https://github.com/backend-br>
 
 ## Qual o objetivo ?
-<p style="text-align: center;">
+<p align="center">
 Existe uma grande comunidade no mundo da programação interessada em aprender backend, nada melhor do que aprender todas as principais funcionalizades e macetes praticando, tendo em vista o grande crescimento da area de dados, temo uma grande implementação de novos caminhos também na area do backend das aplicações. A proposta deste respositorio é bem simples mais muito significativa, ter um local aonde coloco meus estudos, e ainda tenho a possibilidade de compartilha para a o projeto oficial da galera do [BackEnd Brasil **issue**](https://github.com/backend-br), você que gosta de programação e quer incarar esse desafio de aprender na pratica o que não é ensinado no mundo acadêmico, vem conosco e vamos juntos aprender e compartilhar conhecimento de forma livre e gratuitamente para todos que desejarem aprender e acima de tudo "Se Divertir".
 </p>
 <img alt="Programação Back-End: Definição e Exemplos | Eu Faço Programas" class="n3VNCb" src="https://eufacoprogramas.com/wp-content/uploads/2018/10/front-end-definicao.jpg" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 212.789px; height: 166px; margin: 0px;">
