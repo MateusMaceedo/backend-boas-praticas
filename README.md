@@ -12,26 +12,6 @@ Existe uma grande comunidade no mundo da programação interessada em aprender b
 </p>
 <img alt="Programação Back-End: Definição e Exemplos | Eu Faço Programas" class="n3VNCb" src="https://eufacoprogramas.com/wp-content/uploads/2018/10/front-end-definicao.jpg" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 212.789px; height: 166px; margin: 0px;">
 
-<p align="center">
-<img src="https://img.shields.io/badge/java%20-FF0000.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/angular%20-FF0000.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/kotlin%20-%23007ACC.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/elixir%20-314690.svg?&style=for-the-badge&logo=elixir&logoColor=violet"/>
-<img src="https://img.shields.io/badge/ruby%20-FF0000.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
-<img src="https://img.shields.io/badge/go%20-87CEFA.svg?&style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/python%20-314690.svg?&style=for-the-badge&logo=python&logoColor=blue&&yellow=blue"/>
-<img src="https://img.shields.io/badge/.NET%20-314690.svg?&style=for-the-badge&logo=.NET&logoColor=white"/>
-<img src="https://img.shields.io/badge/vue.js%20-%2343853D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/php%20-314690.svg?&style=for-the-badge&logo=php&logoColor=blue"/>
-<img src="https://img.shields.io/badge/perl%20-314690.svg?&style=for-the-badge&logo=perl&logoColor=informational"/>
-<img src="https://img.shields.io/badge/scala%20-314690.svg?&style=for-the-badge&logo=scala&logoColor=red"/>
-</p>
-
 - Abra [uma nova **issue**](https://github.com/backend-br/desafios/issues/new) e, no título  desta _issue_, coloque o mesmo título do desafio.
 - Preencha corretamente os dados pedidos no _template_ padrão - o template aparece quando você cria uma nova issue :)
 - Esteja aberto a discussões sobre dificuldades ou como você resolveu o problema.
